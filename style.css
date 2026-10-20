@@ -5,9 +5,6 @@
   --text:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
 }
-@media (prefers-color-scheme:dark){
-  :root{--bg:#111317;--surface:#181B21;--ink:#ECE8DF;--muted:#A6A39A;--accent:#7E95FF;--on-accent:#0B0F2A;--hl:#2B3680}
-}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
