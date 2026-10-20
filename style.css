@@ -1,7 +1,7 @@
 :root{
   color-scheme:dark;
-  --bg:#F4F1EA;--surface:#FBF9F4;--ink:#15171C;--muted:#5B5E66;
-  --accent:#1F3BFF;--on-accent:#fff;--hl:#CDD6FF;
+  --bg:#111317;--surface:#181B21;--ink:#ECE8DF;--muted:#A6A39A;
+  --accent:#7E95FF;--on-accent:#0B0F2A;--hl:#2B3680;
   --display:"Fraunces",Georgia,"Times New Roman",serif;
   --text:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
   --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
