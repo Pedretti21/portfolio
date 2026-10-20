@@ -9,8 +9,12 @@
 
   --display: "Bricolage Grotesque", system-ui, sans-serif;
   --text: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+    color-scheme: dark;
+  --hl: #2B3680;
+  --mono: "JetBrains Mono", "IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
 }
 *{box-sizing:border-box}
+html{background:var(--bg)}
 html{scroll-behavior:smooth}
 @media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 body{margin:0;background:var(--bg);color:var(--ink);font:400 1.0625rem/1.6 var(--text)}
