@@ -1,9 +1,10 @@
 :root{
   color-scheme:dark;
-  --bg:#0E1424;--surface:#151C30;--ink:#E6EAF4;--muted:#9AA6BD;--line:#26304A;
-  --accent:#7E9BFF;--on-accent:#0E1424;
-  --display:"Bricolage Grotesque",system-ui,sans-serif;
-  --text:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --bg:#F4F1EA;--surface:#FBF9F4;--ink:#15171C;--muted:#5B5E66;
+  --accent:#1F3BFF;--on-accent:#fff;--hl:#CDD6FF;
+  --display:"Fraunces",Georgia,"Times New Roman",serif;
+  --text:"Hanken Grotesk",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
 }
 *{box-sizing:border-box}
 html{background:var(--bg)}
