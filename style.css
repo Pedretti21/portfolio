@@ -1,16 +1,9 @@
-:root {
-  --bg: #0E1424;
-  --surface: #151C30;
-  --ink: #E6EAF4;
-  --muted: #9AA6BD;
-  --line: #26304A;
-  --accent: #7E9BFF;
-  --on-accent: #0E1424;
-
-  --display: "Bricolage Grotesque", system-ui, sans-serif;
-  --text: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-    color-scheme: dark;
-  --hl: #2B3680;
+:root{
+  color-scheme:dark;
+  --bg:#0E1424;--surface:#151C30;--ink:#E6EAF4;--muted:#9AA6BD;--line:#26304A;
+  --accent:#7E9BFF;--on-accent:#0E1424;
+  --display:"Bricolage Grotesque",system-ui,sans-serif;
+  --text:"Instrument Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
 }
 *{box-sizing:border-box}
 html{background:var(--bg)}
